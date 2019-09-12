@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620027328268",
+    "firebase_url": "https://kopinow-8d829.firebaseio.com",
+    "project_id": "kopinow-8d829",
+    "storage_bucket": "kopinow-8d829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620027328268:android:1eddd8b82b50942e17fb29",
+        "android_client_info": {
+          "package_name": "com.syafrizal.kopinow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620027328268-c310ppi9hcs0niuph2q3qv1micch61mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syafrizal.kopinow",
+            "certificate_hash": "830ff2bcb5a670f38ac7df4726fc6d8256e32223"
+          }
+        },
+        {
+          "client_id": "620027328268-ost0kjak1k4d23v3qbc8fn1tt2vr4ua0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XLjU33AmCfHqF-MM4n0O_fUA_Fm_LPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620027328268-ost0kjak1k4d23v3qbc8fn1tt2vr4ua0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
